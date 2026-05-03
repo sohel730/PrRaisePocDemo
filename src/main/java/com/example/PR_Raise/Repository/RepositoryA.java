@@ -1,4 +1,4 @@
 package com.example.PR_Raise.Repository;
 
-public interface Arepository {
+public interface RepositoryA {
 }
